@@ -1,0 +1,38 @@
+nav {
+  background-color: darkcyan;
+}
+
+.img1 {
+  text-align: center;
+}
+
+.intro {
+  color: #1b2021;
+}
+.navbar li a {
+  text-align: left;
+}
+
+body {
+  font-family: "comic sans ms";
+}
+.jumbotron {
+  padding-top: 7rem;
+  background-color: darkseagreen;
+}
+
+#myproject {
+  background-color: #e8f6ef;
+}
+
+.mysocialmedia img {
+  background-color: black;
+}
+
+footer {
+  background-color: #b5deff;
+}
+
+section {
+  padding-top: 8rem;
+}
